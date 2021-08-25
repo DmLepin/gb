@@ -1,0 +1,27 @@
+name,ring,quadrant,isNew,description
+Swagger,Adopt,Techniques &Tools,TRUE,Спецификация описания и документирования API
+Insomnia,Adopt,Techniques &Tools,FALSE,Спецификация описания и документирования API
+Docker,Trial,Platform & Infrastructure,FALSE,
+Sentry,Trial,Platform & Infrastructure,FALSE,
+Grafana,Adopt,Data Managment,FALSE,
+Redis,Trial,Data Managment,TRUE,
+PostgreSQL,Trial,Data Managment,TRUE,
+RabbitMQ,Trial,Data Managment,FALSE,
+Kafka,Adopt,Data Managment,TRUE,
+PHP,Adopt,Languages & Frameworks,FALSE,Основной язык разработки
+Ruby,Adopt,Languages & Frameworks,FALSE,Основной язык монолита
+PHP: Laravel,Trial,Languages & Frameworks,TRUE,
+PHP: Symfony,Trial,Languages & Frameworks,TRUE,
+PHP: Composer,Trial,Techniques &Tools,FALSE,
+PHP: rdKafka,Trial,Techniques &Tools,TRUE, API для работы с Kafka
+OpenAPI,Assess,Techniques &Tools,TRUE,
+Pact: Testing,Assess,Techniques &Tools,TRUE,
+Debezium,Assess,Techniques &Tools,TRUE,CDC инструмент
+Salesforce,Hold,Data Managment,FALSE,
+Emarsys,Trial,Data Managment,FALSE,
+FastTrack,Assess,Data Managment,TRUE,
+RoadRunner,Adopt,Techniques &Tools,TRUE,
+RoadRunner: Go,Adopt,Techniques &Tools,TRUE,
+Go,Adopt,Languages & Frameworks,TRUE,
+Prometeus,,,,
+CMAK,,,,Админилка для Kafka
